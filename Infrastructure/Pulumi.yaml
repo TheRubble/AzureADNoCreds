@@ -1,0 +1,3 @@
+name: AzureAdInfrastructure
+runtime: dotnet
+description: Code to setup app regs
